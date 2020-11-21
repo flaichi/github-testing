@@ -1,2 +1,3 @@
  Test GitLab qiuick start demo
  this is 1 secnd rwo added afer 1st push.
+ this is 3rd row added but using add then commit
